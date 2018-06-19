@@ -23,4 +23,8 @@ public class T11 {
         }
         return count;
     }
+
+    public static void main(String[] args) {
+        System.out.println(new T11().NumberOf1(-11));
+    }
 }
