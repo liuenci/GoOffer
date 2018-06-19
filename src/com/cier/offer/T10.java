@@ -13,8 +13,4 @@ public class T10 {
         }
         return this.RectCover(target - 1) + this.RectCover(target - 2);
     }
-
-    public static void main(String[] args) {
-        System.out.println(new T10().RectCover(4));
-    }
 }
