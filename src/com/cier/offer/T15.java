@@ -22,7 +22,6 @@ public class T15 {
             pNode = pNext;
         }
         return newHead;
-
     }
 
     public static void main(String[] args) {
