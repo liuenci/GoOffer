@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,22 +24,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1924" />
+          <entry key="java" value="2184" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1924" />
+          <entry key="JAVA" value="2184" />
         </counts>
       </usages-collector>
     </session>
@@ -47,13 +47,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T28.java">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T29.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="31" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="408">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -116,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/com/cier/offer/T26.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T27.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T28.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/offer/T29.java" />
       </list>
     </option>
   </component>
@@ -181,7 +179,7 @@
     <property name="SearchEverywhereHistoryKey" value="isEmpty&#9;PSI&#9;JAVA://java.awt.datatransfer.MimeTypeParameterList#isEmpty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541339734953" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541341123121" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -369,12 +367,12 @@
       <workItem from="1530715898591" duration="104000" />
       <workItem from="1530754110210" duration="1975000" />
       <workItem from="1539181555206" duration="1594000" />
-      <workItem from="1541169927315" duration="5386000" />
+      <workItem from="1541169927315" duration="5941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97453000" />
+    <option name="totallyTimeSpent" value="98008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -656,11 +654,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T28.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="31" selection-end-line="28" />
+        <state relative-caret-position="170">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
