@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T31.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,50 +16,41 @@
     <session id="998131479">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2788" />
+          <entry key="java" value="2973" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2788" />
+          <entry key="JAVA" value="2973" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T29.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T30.java">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T31.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -124,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/com/cier/offer/T28.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T29.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T30.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/offer/T31.java" />
       </list>
     </option>
   </component>
@@ -146,10 +138,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="640" />
-    <option name="y" value="23" />
-    <option name="width" value="800" />
-    <option name="height" value="812" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -159,6 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -182,14 +173,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="isEmpty&#9;PSI&#9;JAVA://java.awt.datatransfer.MimeTypeParameterList#isEmpty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541426889927" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541509878945" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -209,23 +199,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T21">
+  <component name="RunManager" selected="Application.T31">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cier.offer.T11" />
-      <module name="GoOffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cier.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -286,6 +262,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cier.offer.T31" />
+      <module name="GoOffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cier.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -316,19 +306,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T11" />
       <item itemvalue="Application.T13" />
       <item itemvalue="Application.T15" />
       <item itemvalue="Application.T17" />
       <item itemvalue="Application.T21" />
+      <item itemvalue="Application.T31" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T31" />
         <item itemvalue="Application.T21" />
         <item itemvalue="Application.T17" />
         <item itemvalue="Application.T15" />
         <item itemvalue="Application.T13" />
-        <item itemvalue="Application.T11" />
       </list>
     </recent_temporary>
   </component>
@@ -377,16 +367,16 @@
       <workItem from="1530715898591" duration="104000" />
       <workItem from="1530754110210" duration="1975000" />
       <workItem from="1539181555206" duration="1594000" />
-      <workItem from="1541169927315" duration="8500000" />
+      <workItem from="1541169927315" duration="8985000" />
+      <workItem from="1541508789311" duration="861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100567000" />
+    <option name="totallyTimeSpent" value="101913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.27825466" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -398,17 +388,17 @@
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37516868" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.3746988" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28313252" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4985694" weight="0.28313252" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32928476" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="JRebel Executor" order="11" />
-      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="12" sideWeight="0.5007153" side_tool="true" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -637,10 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,10 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#302#310#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -666,16 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="43" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -688,8 +660,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T30.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="272">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
