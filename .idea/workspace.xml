@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="和为 S 的两个数字">
-      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T43.java" afterDir="false" />
+    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="左旋转字符串">
+      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T44.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,25 +62,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Queue" value="1" />
-          <entry key="java" value="13" />
+          <entry key="java" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="14" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2008" />
-          <entry key="txt" value="63" />
+          <entry key="java" value="2110" />
+          <entry key="txt" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2008" />
-          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="JAVA" value="2110" />
+          <entry key="PLAIN_TEXT" value="72" />
         </counts>
       </usages-collector>
     </session>
@@ -94,16 +94,29 @@
         <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T42.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="11" column="15" lean-forward="true" selection-end-line="30" />
+              <caret line="11" column="15" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T43.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T43.java">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T44.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="114">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -187,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/com/cier/offer/T41.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T42.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T43.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/offer/T44.java" />
       </list>
     </option>
   </component>
@@ -208,8 +222,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="486" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -251,7 +265,7 @@
     <property name="SearchEverywhereHistoryKey" value="isEmpty&#9;PSI&#9;JAVA://java.awt.datatransfer.MimeTypeParameterList#isEmpty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541863831876" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541865308146" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -271,23 +285,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T34">
+  <component name="RunManager" selected="Application.T44">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cier.offer.T15" />
-      <module name="GoOffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cier.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -348,6 +348,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cier.offer.T44" />
+      <module name="GoOffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cier.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -378,19 +392,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T15" />
       <item itemvalue="Application.T17" />
       <item itemvalue="Application.T21" />
       <item itemvalue="Application.T31" />
       <item itemvalue="Application.T34" />
+      <item itemvalue="Application.T44" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T44" />
         <item itemvalue="Application.T34" />
         <item itemvalue="Application.T31" />
         <item itemvalue="Application.T21" />
         <item itemvalue="Application.T17" />
-        <item itemvalue="Application.T15" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +461,7 @@
       <workItem from="1541847383846" duration="1896000" />
       <workItem from="1541849349444" duration="382000" />
       <workItem from="1541849778664" duration="439000" />
-      <workItem from="1541850272012" duration="10451000" />
+      <workItem from="1541850272012" duration="11893000" />
     </task>
     <task id="LOCAL-00001" summary="数组中的 1 的个数。">
       <created>1541510163492</created>
@@ -512,35 +526,42 @@
       <option name="project" value="LOCAL" />
       <updated>1541862527424</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="左旋转字符串">
+      <created>1541863852396</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1541863852396</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123252000" />
+    <option name="totallyTimeSpent" value="124694000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="793" y="0" width="814" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991511" visible="true" weight="0.17352185" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989011" weight="0.3580902" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.5008489" side_tool="true" visible="true" weight="0.17352185" />
+      <window_info id="Favorites" order="5" sideWeight="0.50109893" side_tool="true" weight="0.3580902" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.3746988" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.3784153" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.3994602" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4985694" weight="0.318306" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.20512821" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.23211876" />
       <window_info anchor="bottom" id="JRebel Executor" order="11" />
       <window_info anchor="bottom" id="JRebel Console" order="12" sideWeight="0.5007153" side_tool="true" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -571,16 +592,22 @@
     <MESSAGE value="数组中只出现一次的数字" />
     <MESSAGE value="和为 S 的连续正数序列" />
     <MESSAGE value="和为 S 的两个数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="和为 S 的两个数字" />
+    <MESSAGE value="左旋转字符串" />
+    <option name="LAST_COMMIT_MESSAGE" value="左旋转字符串" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cier/offer/T44.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -865,7 +892,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T42.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="11" column="15" lean-forward="true" selection-end-line="30" />
+          <caret line="11" column="15" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -916,8 +943,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T43.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="361">
+          <caret line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T44.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
