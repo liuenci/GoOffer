@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="丑数">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="两个链表的第一个公共结点">
+      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T37.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoOffer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GoOffer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cier/offer/T36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cier/offer/T36.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,41 +50,53 @@
     <session id="1057728835">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="142" />
+          <entry key="java" value="242" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="142" />
+          <entry key="JAVA" value="242" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T36.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="20" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="285">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T37.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -163,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/com/cier/offer/T34.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T35.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T36.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/offer/T37.java" />
       </list>
     </option>
   </component>
@@ -185,10 +196,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="459" />
-    <option name="y" value="134" />
-    <option name="width" value="800" />
-    <option name="height" value="812" />
+    <option name="x" value="793" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -228,13 +238,13 @@
     <property name="SearchEverywhereHistoryKey" value="isEmpty&#9;PSI&#9;JAVA://java.awt.datatransfer.MimeTypeParameterList#isEmpty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541729896451" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541850827557" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -421,7 +431,10 @@
       <workItem from="1541676953347" duration="4328000" />
       <workItem from="1541763389250" duration="238000" />
       <workItem from="1541841833302" duration="821000" />
-      <workItem from="1541847383846" duration="1365000" />
+      <workItem from="1541847383846" duration="1896000" />
+      <workItem from="1541849349444" duration="382000" />
+      <workItem from="1541849778664" duration="439000" />
+      <workItem from="1541850272012" duration="548000" />
     </task>
     <task id="LOCAL-00001" summary="数组中的 1 的个数。">
       <created>1541510163492</created>
@@ -444,17 +457,24 @@
       <option name="project" value="LOCAL" />
       <updated>1541513845732</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="两个链表的第一个公共结点">
+      <created>1541848873190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541848873190</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111449000" />
+    <option name="totallyTimeSpent" value="113349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17030849" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3592545" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -472,7 +492,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4985694" weight="0.31536388" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.20843373" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.20782726" />
       <window_info anchor="bottom" id="JRebel Executor" order="11" />
       <window_info anchor="bottom" id="JRebel Console" order="12" sideWeight="0.5007153" side_tool="true" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -497,7 +517,8 @@
     <MESSAGE value="数组中的 1 的个数。" />
     <MESSAGE value="把数组排成最小的数" />
     <MESSAGE value="丑数" />
-    <option name="LAST_COMMIT_MESSAGE" value="丑数" />
+    <MESSAGE value="两个链表的第一个公共结点" />
+    <option name="LAST_COMMIT_MESSAGE" value="两个链表的第一个公共结点" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -780,18 +801,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#589#831#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T36.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="285">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -871,6 +894,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
