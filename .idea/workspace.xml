@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="数组中只出现一次的数字">
-      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T41.java" afterDir="false" />
+    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="和为 S 的连续正数序列">
+      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -61,83 +61,38 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1595" />
-          <entry key="txt" value="36" />
+          <entry key="java" value="1848" />
+          <entry key="txt" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1595" />
-          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="JAVA" value="1848" />
+          <entry key="PLAIN_TEXT" value="55" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="projects" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T36.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T37.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T38.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T39.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="40" lean-forward="true" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T40.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="19" column="18" lean-forward="true" selection-end-line="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T41.java">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T42.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="42" />
+            <state relative-caret-position="226">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -219,6 +174,7 @@
         <option value="$PROJECT_DIR$/src/com/cier/offer/T39.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T40.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T41.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/offer/T42.java" />
       </list>
     </option>
   </component>
@@ -283,7 +239,7 @@
     <property name="SearchEverywhereHistoryKey" value="isEmpty&#9;PSI&#9;JAVA://java.awt.datatransfer.MimeTypeParameterList#isEmpty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541860791021" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541862417181" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -479,7 +435,7 @@
       <workItem from="1541847383846" duration="1896000" />
       <workItem from="1541849349444" duration="382000" />
       <workItem from="1541849778664" duration="439000" />
-      <workItem from="1541850272012" duration="7428000" />
+      <workItem from="1541850272012" duration="9035000" />
     </task>
     <task id="LOCAL-00001" summary="数组中的 1 的个数。">
       <created>1541510163492</created>
@@ -530,11 +486,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541854505393</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="和为 S 的连续正数序列">
+      <created>1541860971548</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1541860971548</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120229000" />
+    <option name="totallyTimeSpent" value="121836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="793" y="0" width="814" height="867" extended-state="0" />
@@ -587,16 +550,10 @@
     <MESSAGE value="二叉树的深度" />
     <MESSAGE value="平衡二叉树" />
     <MESSAGE value="数组中只出现一次的数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组中只出现一次的数字" />
+    <MESSAGE value="和为 S 的连续正数序列" />
+    <option name="LAST_COMMIT_MESSAGE" value="和为 S 的连续正数序列" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/jdk/src.zip!/java/lang/StringBuffer.java" />
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -903,8 +860,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T41.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="42" />
+        <state relative-caret-position="212">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T42.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
