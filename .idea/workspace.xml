@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="把字符串转换为整数">
-      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T50.java" afterDir="false" />
+    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="数组中重复的数字">
+      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,25 +63,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Queue" value="1" />
-          <entry key="java" value="21" />
+          <entry key="java" value="22" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="22" />
           <entry key="UML" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3716" />
-          <entry key="txt" value="125" />
+          <entry key="java" value="4191" />
+          <entry key="txt" value="133" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3716" />
-          <entry key="PLAIN_TEXT" value="125" />
+          <entry key="JAVA" value="4191" />
+          <entry key="PLAIN_TEXT" value="133" />
         </counts>
       </usages-collector>
     </session>
@@ -100,11 +102,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T50.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+            <state relative-caret-position="228">
+              <caret line="12" column="14" lean-forward="true" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T51.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="21" column="23" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -139,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cier/offer/ListNode.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T3.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T4.java" />
@@ -190,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/com/cier/offer/T48.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T49.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T50.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/offer/T51.java" />
       </list>
     </option>
   </component>
@@ -254,7 +265,7 @@
     <property name="SearchEverywhereHistoryKey" value="isEmpty&#9;PSI&#9;JAVA://java.awt.datatransfer.MimeTypeParameterList#isEmpty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541937558985" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541943434177" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -274,23 +285,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T44">
+  <component name="RunManager" selected="Application.T51">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cier.offer.T17" />
-      <module name="GoOffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cier.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -351,6 +348,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cier.offer.T51" />
+      <module name="GoOffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cier.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -381,19 +392,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T17" />
       <item itemvalue="Application.T21" />
       <item itemvalue="Application.T31" />
       <item itemvalue="Application.T34" />
       <item itemvalue="Application.T44" />
+      <item itemvalue="Application.T51" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T51" />
         <item itemvalue="Application.T44" />
         <item itemvalue="Application.T34" />
         <item itemvalue="Application.T31" />
         <item itemvalue="Application.T21" />
-        <item itemvalue="Application.T17" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +462,7 @@
       <workItem from="1541849349444" duration="382000" />
       <workItem from="1541849778664" duration="439000" />
       <workItem from="1541850272012" duration="12070000" />
-      <workItem from="1541919277378" duration="9467000" />
+      <workItem from="1541919277378" duration="12988000" />
     </task>
     <task id="LOCAL-00001" summary="数组中的 1 的个数。">
       <created>1541510163492</created>
@@ -565,11 +576,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541936613135</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="数组中重复的数字">
+      <created>1541937582995</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1541937582995</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134338000" />
+    <option name="totallyTimeSpent" value="137859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="793" y="0" width="814" height="867" extended-state="0" />
@@ -586,14 +604,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.3784153" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.3994602" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" visible="true" weight="0.3989071" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4985694" weight="0.318306" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.23087431" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.23087431" />
       <window_info anchor="bottom" id="JRebel Executor" order="11" />
       <window_info anchor="bottom" id="JRebel Console" order="12" sideWeight="0.5007153" side_tool="true" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -630,7 +648,8 @@
     <MESSAGE value="求 1+2+3+...+n" />
     <MESSAGE value="不用加减乘除做加法" />
     <MESSAGE value="把字符串转换为整数" />
-    <option name="LAST_COMMIT_MESSAGE" value="把字符串转换为整数" />
+    <MESSAGE value="数组中重复的数字" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组中重复的数字" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -641,24 +660,16 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cier/offer/T51.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -984,8 +995,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T50.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        <state relative-caret-position="228">
+          <caret line="12" column="14" lean-forward="true" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20325">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T51.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="21" column="23" selection-end-line="28" />
         </state>
       </provider>
     </entry>
