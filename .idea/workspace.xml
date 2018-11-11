@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="孩子们的游戏（圆圈中最后剩下的数）">
-      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T47.java" afterDir="false" />
+    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="求 1+2+3+...+n">
+      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T48.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,24 +63,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Queue" value="1" />
-          <entry key="java" value="17" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="18" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2840" />
+          <entry key="java" value="3017" />
           <entry key="txt" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2840" />
+          <entry key="JAVA" value="3017" />
           <entry key="PLAIN_TEXT" value="103" />
         </counts>
       </usages-collector>
@@ -91,11 +91,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T47.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="14" lean-forward="true" selection-end-line="13" />
+            <state relative-caret-position="171">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T48.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="17" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -130,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cier/offer/T2.java" />
         <option value="$PROJECT_DIR$/src/com/cier/pojo/ListNode.java" />
         <option value="$PROJECT_DIR$/src/com/cier/ListNode.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/ListNode.java" />
@@ -181,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/com/cier/offer/T45.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T46.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T47.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/offer/T48.java" />
       </list>
     </option>
   </component>
@@ -245,7 +254,7 @@
     <property name="SearchEverywhereHistoryKey" value="isEmpty&#9;PSI&#9;JAVA://java.awt.datatransfer.MimeTypeParameterList#isEmpty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541925266332" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541933292223" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -442,7 +451,7 @@
       <workItem from="1541849349444" duration="382000" />
       <workItem from="1541849778664" duration="439000" />
       <workItem from="1541850272012" duration="12070000" />
-      <workItem from="1541919277378" duration="4877000" />
+      <workItem from="1541919277378" duration="7048000" />
     </task>
     <task id="LOCAL-00001" summary="数组中的 1 的个数。">
       <created>1541510163492</created>
@@ -535,11 +544,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541923794525</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="求 1+2+3+...+n">
+      <created>1541925508568</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1541925508568</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129748000" />
+    <option name="totallyTimeSpent" value="131919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="793" y="0" width="814" height="867" extended-state="0" />
@@ -597,7 +613,8 @@
     <MESSAGE value="左旋转字符串" />
     <MESSAGE value="翻转单词顺序列" />
     <MESSAGE value="孩子们的游戏（圆圈中最后剩下的数）" />
-    <option name="LAST_COMMIT_MESSAGE" value="孩子们的游戏（圆圈中最后剩下的数）" />
+    <MESSAGE value="求 1+2+3+...+n" />
+    <option name="LAST_COMMIT_MESSAGE" value="求 1+2+3+...+n" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -612,13 +629,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -951,8 +961,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T47.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="14" lean-forward="true" selection-end-line="13" />
+        <state relative-caret-position="171">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T48.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="17" selection-end-line="22" />
         </state>
       </provider>
     </entry>
