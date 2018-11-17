@@ -29,10 +29,10 @@ public class T56 {
     public static void main(String[] args) {
 
         ListNode pHead = new ListNode(1);
-        ListNode pNode1 = new ListNode(1);
-        ListNode pNode2 = new ListNode(1);
-        ListNode pNode3 = new ListNode(2);
-        ListNode pNode4 = new ListNode(2);
+        ListNode pNode1 = new ListNode(2);
+        ListNode pNode2 = new ListNode(3);
+        ListNode pNode3 = new ListNode(4);
+        ListNode pNode4 = new ListNode(4);
         pHead.next = pNode1;
         pNode1.next = pNode2;
         pNode2.next = pNode3;
