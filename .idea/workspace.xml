@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="把二叉树打印成多行">
-      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T61.java" afterDir="false" />
+    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="序列化二叉树">
+      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T62.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -64,27 +64,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Queue" value="1" />
-          <entry key="java" value="34" />
+          <entry key="java" value="35" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="34" />
+          <entry key="JAVA" value="35" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8251" />
-          <entry key="txt" value="270" />
+          <entry key="java" value="8971" />
+          <entry key="txt" value="279" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8251" />
-          <entry key="PLAIN_TEXT" value="270" />
+          <entry key="JAVA" value="8971" />
+          <entry key="PLAIN_TEXT" value="279" />
         </counts>
       </usages-collector>
     </session>
@@ -103,11 +103,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T61.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="245">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T62.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -142,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cier/offer/T13.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T14.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T15.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T16.java" />
@@ -193,6 +201,7 @@
         <option value="$PROJECT_DIR$/src/com/cier/offer/T59.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T60.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T61.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/offer/T62.java" />
       </list>
     </option>
   </component>
@@ -214,8 +223,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="793" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="403" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -257,7 +266,7 @@
     <property name="SearchEverywhereHistoryKey" value="isEmpty&#9;PSI&#9;JAVA://java.awt.datatransfer.MimeTypeParameterList#isEmpty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542525205835" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542529282143" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -277,23 +286,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T56">
+  <component name="RunManager" selected="Application.T62">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cier.offer.T34" />
-      <module name="GoOffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cier.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -354,6 +349,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cier.offer.T62" />
+      <module name="GoOffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cier.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -384,19 +393,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T34" />
       <item itemvalue="Application.T44" />
       <item itemvalue="Application.T51" />
       <item itemvalue="Application.T53" />
       <item itemvalue="Application.T56" />
+      <item itemvalue="Application.T62" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T62" />
         <item itemvalue="Application.T56" />
         <item itemvalue="Application.T53" />
         <item itemvalue="Application.T51" />
         <item itemvalue="Application.T44" />
-        <item itemvalue="Application.T34" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +464,7 @@
       <workItem from="1541849778664" duration="439000" />
       <workItem from="1541850272012" duration="12070000" />
       <workItem from="1541919277378" duration="14648000" />
-      <workItem from="1542428423073" duration="20626000" />
+      <workItem from="1542428423073" duration="24233000" />
     </task>
     <task id="LOCAL-00001" summary="数组中的 1 的个数。">
       <created>1541510163492</created>
@@ -660,17 +669,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542523958373</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="序列化二叉树">
+      <created>1542525245332</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1542525245332</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160145000" />
+    <option name="totallyTimeSpent" value="163752000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="793" y="0" width="814" height="867" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989011" weight="0.35676393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989011" visible="true" weight="0.1722365" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -681,14 +697,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49871466" weight="0.23751687" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.3989071" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" visible="true" weight="0.39811066" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012854" side_tool="true" weight="0.23751687" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012854" side_tool="true" weight="0.2363388" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4985694" weight="0.317139" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.23360656" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.23360656" />
       <window_info anchor="bottom" id="JRebel Executor" order="11" />
       <window_info anchor="bottom" id="JRebel Console" order="12" sideWeight="0.5007153" side_tool="true" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -710,7 +726,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="数组中的 1 的个数。" />
     <MESSAGE value="把数组排成最小的数" />
     <MESSAGE value="丑数" />
     <MESSAGE value="两个链表的第一个公共结点" />
@@ -735,7 +750,8 @@
     <MESSAGE value="对称的二叉树" />
     <MESSAGE value="按之字形打印二叉树" />
     <MESSAGE value="把二叉树打印成多行" />
-    <option name="LAST_COMMIT_MESSAGE" value="把二叉树打印成多行" />
+    <MESSAGE value="序列化二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="序列化二叉树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -770,11 +786,22 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cier/offer/T62.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cier/offer/T62.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Java/jdk/src.zip!/java/util/Vector.java" />
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T21.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -1138,8 +1165,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T61.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        <state relative-caret-position="245">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
         </state>
       </provider>
     </entry>
