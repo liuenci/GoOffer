@@ -4,8 +4,8 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="滑动窗口的最大值">
-      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T65.java" afterDir="false" />
+    <list default="true" id="e9e96ed9-617c-4c71-a2d7-3b39210b6e26" name="Default" comment="矩阵中的路径">
+      <change afterPath="$PROJECT_DIR$/src/com/cier/offer/T66.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -68,27 +68,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Queue" value="1" />
-          <entry key="java" value="38" />
+          <entry key="java" value="39" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="38" />
+          <entry key="JAVA" value="39" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10404" />
-          <entry key="txt" value="318" />
+          <entry key="java" value="10835" />
+          <entry key="txt" value="329" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10404" />
-          <entry key="PLAIN_TEXT" value="318" />
+          <entry key="JAVA" value="10835" />
+          <entry key="PLAIN_TEXT" value="329" />
         </counts>
       </usages-collector>
     </session>
@@ -146,11 +146,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T65.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="69">
+              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T66.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="22" column="201" selection-start-line="22" selection-start-column="201" selection-end-line="22" selection-end-column="201" />
             </state>
           </provider>
         </entry>
@@ -185,7 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cier/offer/T17.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T18.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T19.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T20.java" />
@@ -236,6 +244,7 @@
         <option value="$PROJECT_DIR$/src/com/cier/offer/T63.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T64.java" />
         <option value="$PROJECT_DIR$/src/com/cier/offer/T65.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/offer/T66.java" />
       </list>
     </option>
   </component>
@@ -300,7 +309,7 @@
     <property name="SearchEverywhereHistoryKey" value="isEmpty&#9;PSI&#9;JAVA://java.awt.datatransfer.MimeTypeParameterList#isEmpty" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542538656990" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542540018547" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -499,7 +508,7 @@
       <workItem from="1541850272012" duration="12070000" />
       <workItem from="1541919277378" duration="14648000" />
       <workItem from="1542428423073" duration="24752000" />
-      <workItem from="1542530086259" duration="4094000" />
+      <workItem from="1542530086259" duration="5409000" />
     </task>
     <task id="LOCAL-00001" summary="数组中的 1 的个数。">
       <created>1541510163492</created>
@@ -732,11 +741,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542537155230</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="矩阵中的路径">
+      <created>1542538692593</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1542538692593</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168365000" />
+    <option name="totallyTimeSpent" value="169680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="793" y="0" width="814" height="867" extended-state="0" />
@@ -783,7 +799,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="二叉树的深度" />
     <MESSAGE value="平衡二叉树" />
     <MESSAGE value="数组中只出现一次的数字" />
     <MESSAGE value="和为 S 的连续正数序列" />
@@ -808,7 +823,8 @@
     <MESSAGE value="二叉树第 K 小的节点" />
     <MESSAGE value="数据流中的中位数" />
     <MESSAGE value="滑动窗口的最大值" />
-    <option name="LAST_COMMIT_MESSAGE" value="滑动窗口的最大值" />
+    <MESSAGE value="矩阵中的路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="矩阵中的路径" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -847,13 +863,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="88" lean-forward="true" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T25.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -1212,8 +1221,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T65.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state relative-caret-position="69">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/offer/T66.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="22" column="201" selection-start-line="22" selection-start-column="201" selection-end-line="22" selection-end-column="201" />
         </state>
       </provider>
     </entry>
