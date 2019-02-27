@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab90611-fb40-4a76-ace9-fd6514b5a1a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cier/two/T24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cier/two/RandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cier/two/T25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cier/two/todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cier/two/todo.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,15 +26,15 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="37" />
-          <entry key="Markdown" value="5" />
+          <entry key="JAVA" value="40" />
+          <entry key="Markdown" value="6" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6323" />
-          <entry key="Markdown" value="67" />
+          <entry key="JAVA" value="6337" />
+          <entry key="Markdown" value="87" />
           <entry key="XML" value="7" />
         </counts>
       </usages-collector>
@@ -41,7 +42,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cier/two/T24.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -50,6 +51,45 @@
                 <element signature="e#319#320#0" expanded="true" />
                 <element signature="e#340#341#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/two/todo.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="272">
+                <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/two/T25.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/two/RandomListNode.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/two/T1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -69,7 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/cier/two/T1.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T2.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/ListNode.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T3.java" />
@@ -96,8 +135,11 @@
         <option value="$PROJECT_DIR$/src/com/cier/two/t22.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T22.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T23.java" />
-        <option value="$PROJECT_DIR$/src/com/cier/two/todo.md" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T24.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/two/T1.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/two/RandomListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/two/T25.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/two/todo.md" />
       </list>
     </option>
   </component>
@@ -784,6 +826,14 @@
               <item name="cier" type="462c0819:PsiDirectoryNode" />
               <item name="two" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GoOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cier" type="462c0819:PsiDirectoryNode" />
+              <item name="two" type="462c0819:PsiDirectoryNode" />
+              <item name="RandomListNode" type="1a9f42e2:ClassTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -795,7 +845,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551265726235" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551271574625" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
@@ -879,18 +929,18 @@
       <option name="presentableId" value="Default" />
       <updated>1551173369892</updated>
       <workItem from="1551173371596" duration="29504000" />
-      <workItem from="1551270800804" duration="178000" />
+      <workItem from="1551270800804" duration="416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29682000" />
+    <option name="totallyTimeSpent" value="29920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -900,7 +950,7 @@
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="0" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.12891567" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.12891567" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="5" />
@@ -1009,13 +1059,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/cier/two/T1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/two/T2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1227,16 +1270,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cier/two/todo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/two/T23.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1252,6 +1285,37 @@
             <element signature="e#319#320#0" expanded="true" />
             <element signature="e#340#341#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/two/T1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/two/RandomListNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/two/T25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/two/todo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="272">
+            <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
