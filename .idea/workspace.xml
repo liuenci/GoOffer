@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab90611-fb40-4a76-ace9-fd6514b5a1a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cier/two/T4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cier/two/T4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cier/two/T16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cier/two/T16.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,14 +26,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="46" />
-          <entry key="Markdown" value="7" />
+          <entry key="JAVA" value="47" />
+          <entry key="Markdown" value="8" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7366" />
+          <entry key="JAVA" value="7528" />
           <entry key="Markdown" value="114" />
           <entry key="XML" value="7" />
         </counts>
@@ -43,15 +42,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/cier/two/T4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="108" selection-start-line="24" selection-start-column="108" selection-end-line="24" selection-end-column="108" />
-              <folding>
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="366">
+              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/two/todo.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="374">
+                <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cier/two/T16.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -87,7 +103,6 @@
         <option value="$PROJECT_DIR$/src/com/cier/two/T13.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T14.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T15.java" />
-        <option value="$PROJECT_DIR$/src/com/cier/two/T16.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T17.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T18.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T19.java" />
@@ -107,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/com/cier/two/T30.java" />
         <option value="$PROJECT_DIR$/src/com/cier/two/todo.md" />
         <option value="$PROJECT_DIR$/src/com/cier/two/T4.java" />
+        <option value="$PROJECT_DIR$/src/com/cier/two/T16.java" />
       </list>
     </option>
   </component>
@@ -804,7 +820,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551782491271" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551782974073" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
@@ -905,18 +921,18 @@
       <workItem from="1551173371596" duration="29504000" />
       <workItem from="1551270800804" duration="873000" />
       <workItem from="1551316757955" duration="598000" />
-      <workItem from="1551776637153" duration="4244000" />
+      <workItem from="1551776637153" duration="4752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35219000" />
+    <option name="totallyTimeSpent" value="35727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49823323" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49823323" visible="true" weight="0.26037195" />
       <window_info id="Alibaba Cloud Explorer" order="1" sideWeight="0.5017668" side_tool="true" weight="0.26037195" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -1146,13 +1162,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cier/two/T16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/two/T18.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
@@ -1283,6 +1292,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cier/two/T4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cier/two/todo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1293,14 +1309,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cier/two/T4.java">
+    <entry file="file://$PROJECT_DIR$/src/com/cier/two/T16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="108" selection-start-line="24" selection-start-column="108" selection-end-line="24" selection-end-column="108" />
-          <folding>
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
