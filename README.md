@@ -17,7 +17,7 @@
 |9|[变态跳台阶](https://www.nowcoder.com/practice/22243d016f6b47f2a6928b4313c85387?tpId=13&tqId=11162&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T9.java)|递归和循环|
 |10|[矩形覆盖](https://www.nowcoder.com/practice/72a5a919508a4251859fb2cfb987a0e6?tpId=13&tqId=11163&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T10.java)|递归和循环|
 |11|[二进制中1的个数]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T11.java)|位运算|
-|12|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T12.java)||
+|12|[数值的整数次方]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T12.java)|代码的完整性|
 |13|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T13.java)||
 |14|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T14.java)||
 |15|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T15.java)||
