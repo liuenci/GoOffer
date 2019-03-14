@@ -13,7 +13,7 @@
 |5|[用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tqId=11158&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T5.java)|队列和栈|
 |6|[旋转数组的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tqId=11159&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T6.java)|查找和排序|
 |7|[斐波拉契数列](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=13&tqId=11160&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T7.java)|递归和循环|
-|8|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T3.java)||
+|8|[跳台阶](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&tqId=11161&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T8.java)|递归和循环|
 |9|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T3.java)||
 |10|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T3.java)||
 |11|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T3.java)||
