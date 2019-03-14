@@ -64,8 +64,8 @@
 |56|[删除链表中重复的结点]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T56.java)|链表|
 |57|[二叉树的下一个结点]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T57.java)|树|
 |58|[对称的二叉树]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T58.java)|树|
-|59|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T59.java)||
-|60|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T60.java)||
+|59|[按之字形打印顺序打印二叉树]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T59.java)|树|
+|60|[把二叉树打印成多行]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T60.java)|树|
 |61|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T61.java)||
 |62|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T62.java)||
 |63|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T63.java)||
