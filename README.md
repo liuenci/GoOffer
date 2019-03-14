@@ -10,8 +10,8 @@
 |2|[替换空格](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T2.java)|字符串|
 |3|[从尾到头打印链表](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=11156&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T3.java)|链表|
 |4|[重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T4.java)|树|
-|5|[用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tqId=11158&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T5.java)|队列、栈|
-|6|[旋转数组的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tqId=11159&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T6.java)|数组|
+|5|[用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tqId=11158&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T5.java)|队列和栈|
+|6|[旋转数组的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tqId=11159&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T6.java)|查找和排序|
 |7|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T3.java)||
 |8|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T3.java)||
 |9|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T3.java)||
