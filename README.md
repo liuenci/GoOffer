@@ -59,8 +59,8 @@
 |51|[构建乘积数组]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T51.java)|数组|
 |52|[正则表达式匹配]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T52.java)|字符串|
 |53|[表示数值的字符串]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T53.java)|字符串|
-|54|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T54.java)||
-|55|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T55.java)||
+|54|[字符流中第一个不重复的字符]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T54.java)|字符串|
+|55|[链表中环的入口结点]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T55.java)|链表|
 |56|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T56.java)||
 |57|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T57.java)||
 |58|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T58.java)||
