@@ -41,7 +41,7 @@
 |33|[丑数]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T33.java)|时间空间效率的平衡|
 |34|[第一次只出现一次的字符位置]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T34.java)|时间空间效率的平衡|
 |35|[数组中的逆序对]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T35.java)|时间空间效率的平衡|
-|36|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T36.java)||
+|36|[两个链表的第一个公共节点]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T36.java)|时间空间效率的平衡|
 |37|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T37.java)||
 |38|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T38.java)||
 |39|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T39.java)||
