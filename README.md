@@ -35,7 +35,7 @@
 |27|[字符串的排列]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T27.java)|分解让复杂问题简单|
 |28|[数组中出现次数超过一半的数字]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T28.java)|时间效率|
 |29|[最小的K个数]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T29.java)|时间效率|
-|30|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T30.java)||
+|30|[连续子序列的最大和]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T30.java)|时间效率|
 |31|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T31.java)||
 |32|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T32.java)||
 |33|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T33.java)||
