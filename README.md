@@ -67,7 +67,7 @@
 |59|[按之字形打印顺序打印二叉树]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T59.java)|树|
 |60|[把二叉树打印成多行]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T60.java)|树|
 |61|[序列化二叉树]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T61.java)|树|
-|62|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T62.java)||
+|62|[二叉搜索树的第k个结点]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T62.java)|树|
 |63|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T63.java)||
 |64|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T64.java)||
 |65|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T65.java)||
