@@ -55,7 +55,7 @@
 |47|[求1+2+3+...+n]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T47.java)|发散思维能力|
 |48|[不用加减乘除做加法]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T48.java)|发散思维能力|
 |49|[将字符串转化为整数]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T49.java)|综合|
-|50|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T50.java)||
+|50|[数组中重复的数字]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T50.java)|数组|
 |51|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T51.java)||
 |52|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T52.java)||
 |53|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T53.java)||
