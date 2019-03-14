@@ -23,7 +23,7 @@
 |15|[反转链表]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T15.java)|代码的鲁棒性|
 |16|[合并两个排序的链表]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T16.java)|代码的鲁棒性|
 |17|[树的子结构]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T17.java)|代码的鲁棒性|
-|18|[二叉树的镜像]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T18.java)|树|
+|18|[二叉树的镜像]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T18.java)|面试思路|
 |19|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T19.java)||
 |20|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T20.java)||
 |21|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T21.java)||
