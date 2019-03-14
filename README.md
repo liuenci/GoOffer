@@ -18,7 +18,7 @@
 |10|[矩形覆盖](https://www.nowcoder.com/practice/72a5a919508a4251859fb2cfb987a0e6?tpId=13&tqId=11163&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T10.java)|递归和循环|
 |11|[二进制中1的个数]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T11.java)|位运算|
 |12|[数值的整数次方]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T12.java)|代码的完整性|
-|13|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T13.java)||
+|13|[调整数组顺序使奇数为于偶数前面]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T13.java)|代码的完整性|
 |14|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T14.java)||
 |15|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T15.java)||
 |16|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T16.java)||
