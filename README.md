@@ -51,7 +51,7 @@
 |43|[左旋转字符串]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T43.java)|知识迁移能力|
 |44|[翻转单词顺序列]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T44.java)|知识迁移能力|
 |45|[扑克牌顺子]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T45.java)|抽象建模能力|
-|46|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T46.java)||
+|46|[孩子们的游戏（圆圈中最后剩下的数）]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T46.java)|抽象建模能力|
 |47|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T47.java)||
 |48|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T48.java)||
 |49|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T49.java)||
