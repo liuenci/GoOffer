@@ -53,7 +53,7 @@
 |45|[扑克牌顺子]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T45.java)|抽象建模能力|
 |46|[孩子们的游戏（圆圈中最后剩下的数）]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T46.java)|抽象建模能力|
 |47|[求1+2+3+...+n]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T47.java)|发散思维能力|
-|48|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T48.java)||
+|48|[不用加减乘除做加法]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T48.java)|发散思维能力|
 |49|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T49.java)||
 |50|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T50.java)||
 |51|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T51.java)||
