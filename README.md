@@ -62,7 +62,7 @@
 |54|[字符流中第一个不重复的字符]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T54.java)|字符串|
 |55|[链表中环的入口结点]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T55.java)|链表|
 |56|[删除链表中重复的结点]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T56.java)|链表|
-|57|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T57.java)||
+|57|[二叉树的下一个结点]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T57.java)|树|
 |58|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T58.java)||
 |59|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T59.java)||
 |60|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T60.java)||
