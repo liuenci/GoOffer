@@ -19,7 +19,7 @@
 |11|[二进制中1的个数]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T11.java)|位运算|
 |12|[数值的整数次方]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T12.java)|代码的完整性|
 |13|[调整数组顺序使奇数为于偶数前面]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T13.java)|代码的完整性|
-|14|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T14.java)||
+|14|[链表中倒数第k个结点]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T14.java)|代码的鲁棒性|
 |15|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T15.java)||
 |16|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T16.java)||
 |17|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T17.java)||
