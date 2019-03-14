@@ -57,7 +57,7 @@
 |49|[将字符串转化为整数]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T49.java)|综合|
 |50|[数组中重复的数字]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T50.java)|数组|
 |51|[构建乘积数组]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T51.java)|数组|
-|52|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T52.java)||
+|52|[正则表达式匹配]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T52.java)|字符串|
 |53|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T53.java)||
 |54|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T54.java)||
 |55|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T55.java)||
