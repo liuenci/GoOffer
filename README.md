@@ -25,8 +25,8 @@
 |17|[树的子结构]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T17.java)|代码的鲁棒性|
 |18|[二叉树的镜像]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T18.java)|面试思路|
 |19|[顺时针打印矩阵]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T19.java)|画图让抽象形象化|
-|20|[包含min函数的栈]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T20.java)|举例让抽象形象化|
-|21|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T21.java)||
+|20|[包含min函数的栈]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T20.java)|举例让抽象具体化|
+|21|[栈的压入、弹出序列]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T21.java)|举例让抽象具体化|
 |22|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T22.java)||
 |23|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T23.java)||
 |24|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T24.java)||
