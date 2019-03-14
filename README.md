@@ -47,7 +47,7 @@
 |39|[平衡二叉树]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T39.java)|知识迁移能力|
 |40|[数组中只出现一次的数字]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T40.java)|知识迁移能力|
 |41|[和为S的连续整数序列]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T41.java)|知识迁移能力|
-|42|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T42.java)||
+|42|[和为S的两个数字]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T42.java)|知识迁移能力|
 |43|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T43.java)||
 |44|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T44.java)||
 |45|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T45.java)||
