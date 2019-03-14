@@ -1,4 +1,4 @@
-GoOffer
+牛客网剑指 Offer 刷题题解
 ========
 
 ### GoOffer Algorithm
