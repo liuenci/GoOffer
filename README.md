@@ -37,8 +37,8 @@
 |29|[最小的K个数]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T29.java)|时间效率|
 |30|[连续子序列的最大和]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T30.java)|时间效率|
 |31|[整数中1出现的次数（从1到n整数中1出现的次数）]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T31.java)|时间效率|
-|32|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T32.java)||
-|33|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T33.java)||
+|32|[把数组排成最小的数]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T32.java)|时间效率|
+|33|[丑数]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T33.java)|时间空间效率的平衡|
 |34|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T34.java)||
 |35|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T35.java)||
 |36|[]()| [Java](https://github.com/liuenci/GoOffer/blob/master/src/com/cier/one/T36.java)||
